@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.feedback-title{
+
+background-color: #0d0442;
+padding: 3% 5%;
+
+}
+
+.hr-style{
+
+    border: 5px dotted white;
+    border-bottom: none;
+    border-top-width: 5x;
+}
+p{
+    color: springgreen;
+    font-style: italic;
+    font-size: 25px;
+    
+}
+h6{
+
+    color: springgreen;
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 6px;
+}
+
